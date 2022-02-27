@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True representation of the state of the bordering customary tenants in the north, under an oppressing landlord; humbly tendered to His Highness the Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging, by their petitions following.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89409</idno>
+            <idno type="STC">Wing M3075</idno>
+            <idno type="STC">Thomason E730_12</idno>
+            <idno type="STC">ESTC R202934</idno>
+            <idno type="EEBO-CITATION">99863058</idno>
+            <idno type="PROQUEST">99863058</idno>
+            <idno type="VID">166847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166847)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 112:E730[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True representation of the state of the bordering customary tenants in the north, under an oppressing landlord; humbly tendered to His Highness the Lord Protector of the Common-wealth of England, Scotland, and Ireland, and the dominions thereunto belonging, by their petitions following.</title>
+                  <author>Musgrave, John, fl. 1654.</author>
+                  <author>Muncaster, Randal.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A petition of Randal Muncaster and 185 other Cumberland tenants.</note>
+                  <note>Editor's preface signed: John Musgrave.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Feb: 27:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Landlord and tenant --  England --  Cumberland --  Early works to 1800.</term>
+               <term>Cumberland (England) --  Social conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166847:1" rendition="simple:additions"/>
+            <head>A true Repreſentation of the State of the Bordering Cuſtomary Tenants in the North, under an Oppreſſing Landlord; hum<g ref="char:EOLhyphen"/>bly tendered to His Highneſs the Lord Pro<g ref="char:EOLhyphen"/>tector of the Common-wealth of England, Scotland, and Ireland, and the Dominions thereunto belonging, by their Petitions fol<g ref="char:EOLhyphen"/>lowing.</head>
+            <div type="preamble">
+               <p>WHen the unhappy difference begun betwixt the late King and Parliament, one of the great Grievances by the Parliament held forth, was, The heavy oppreſſure which the Cuſtomary Tenants and Commons had lain under, by the unlimited, arbitrary power which the great men of the North exerciſed over their Tenants; and amongſt all the oppreſſing Landlords there, none was ſo cruel and hard<g ref="char:EOLhyphen"/>hearted as the late Lord <hi>William Howard</hi> of the North; to ſet forth whoſe Cruelty, Oppreſſion, and Depopulation in parti<g ref="char:EOLhyphen"/>cular, a whole volumn would not ſuffice: But the Parliament having broken the Kings party, declined from what they pre<g ref="char:EOLhyphen"/>tended, and had firſt engaged for, and began to look upon the People with a ſupercelious brow, ſlighting their Petitions, laying heavier burthens on them then any of the former Kings had ever attempted; by which the Parliament was with eaſe laid aſide, none lamenting for them. It was expected in the next Change of Government, we ſhould have had change of our Task-Masters; but yet we groan under the old Oppreſſions: And
+<pb n="2" facs="tcp:166847:2"/>
+though His Highneſſe hath for more eaſe and expedition, ap<g ref="char:EOLhyphen"/>pointed two Maſter of Requeſts to receive Petitions, yet after the manner of former Committees, they pretend excuſes, and refuſe to receive our Petitions. So having no other mean to have acceſſe unto his Highneſſe, I being the Tenants Agent and Solicitor, have publiſhed this Petition, for no other end then that the ſame may be made known to his Highneſſe, and to pre<g ref="char:EOLhyphen"/>vent a more chargeable and fruitleſſe attendance upon the ſaid Maſters of Requeſts, who ſo little regard us, or the honor of their Maſter. Other Oppreſſions and Grievances, and treacherous pra<g ref="char:EOLhyphen"/>ctiſes of our bloudy Canites, I ſhall preſent ſhortly to view. In the mean time, we deſire this Petition may come under examinati<g ref="char:EOLhyphen"/>on; before we be conſtrained to lie our ſelves more bare; being reſolved rather with the Leppers, to periſh by putting our ſelves forth, then by longer ſilence to undo our ſelves; deſiring that it may not be forgotten, how it is written, <hi>He that ruleth o<g ref="char:EOLhyphen"/>ver men ought to be juſt.</hi>
+               </p>
+               <closer>
+                  <signed>JOHN MUSGRAVE.</signed>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="3" facs="tcp:166847:2"/>
+               <head>To His Highneſs, OLIVER Lord Pro<g ref="char:EOLhyphen"/>tector of the Common-wealth of England, Scotland, and Ireland, and the Dominions thereunto belonging. The humble Petition of <hi>Randal Muncaſter, Robert Milburne, Thomas Moſes,</hi> and <hi>John Bell,</hi> and others, in the name, and on the behalf of themſelves, and the reſt of the ancient Cuſtomary Ten<g ref="char:EOLhyphen"/>nants of and in the ſeveral Mannors, Lordſhips; &amp; Towns of <hi>Leverſ<g ref="char:EOLhyphen"/>dale, Cumrew, Caſtlecarrick, Talken, Irthington, Cum<g ref="char:EOLhyphen"/>whitton, Great Askerton, Little Askerton, Eaſt Farlam, Weſt Farlam, Tredermain, Hayton, Fenton, Howe Faugh, Northskeugh, Walton-wood, Brampton, Felſide,</hi> and <hi>New-bygenn;</hi> The Petitioners being in number <hi>186,</hi> all mithin the Baro<g ref="char:EOLhyphen"/>ny of <hi>Gilſeland</hi> in the County of <hi>Cumberland.</hi>
+               </head>
+               <opener>H<g ref="char:V">Ʋ</g>MBLY SHEWETH,</opener>
+               <p>THat your Petitioners and all and every of the ſaid ſeve<g ref="char:EOLhyphen"/>ral and reſpective Tenants and their Anceſtors, within the ſaid ſeveral Mannors, Lordſhips, and Towns, time without memory of man, have and do hold their ſeve<g ref="char:EOLhyphen"/>ral and reſpective Tenements, deſcendible from Anceſtor to heir, as Cuſtomary Tenants in Tenant-right eſtate of <hi>Charls Howard</hi> of <hi>Neward</hi> 
+                  <abbr>Eſq</abbr> in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid County of <hi>Cumberland</hi> 
+                  <abbr>Eſq</abbr> Lord of the ſaid Mann<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs Lordſhips, and Towns, under certain yearly ſe<g ref="char:EOLhyphen"/>veral Rents, and paying onely two penny fine, or a three pen<g ref="char:EOLhyphen"/>ny fine at the moſt, and never more, that is to ſay, two years or three years ancient rent of their Tenements, as the ſame fall due upon death of Lord, or upon change of Tenant by death or Alienation, doing ſuit of Court, performing bordor ſervice, ſome on foot, ſome with horſes at their proper coſts, paying one boone or day work in harveſt unto the ſaid Lord for the time being, or four pence for the ſame, paying one penny called <hi>Grenehew</hi>
+                  <pb n="4" facs="tcp:166847:3"/>
+penny, for liberty to cut and take wood growing on their reſ<g ref="char:EOLhyphen"/>pectiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tenements, and paying yearly four pence at <hi>Michaelmas</hi> for land Serjeant Fee, and no other rents, monies or ſervices whatſoever. And your Petitioners and all other the ſaid cu<g ref="char:EOLhyphen"/>ſtomary Tenants within the ſaid ſeveral Mannors, Lordſhips, and Towns of <hi>Hayton, Cumwhitton, Talkon, Caſtlecarrick, Eaſt Farlam,</hi> and <hi>Weſt Farlam,</hi> have had time without memory of man ſeveral and certain boones, dayles, or day-works of Hay<g ref="char:EOLhyphen"/>ground, within the Forreſt of Breirthwait in Gilſland aforeſaid, belonging to their ſeveral Tenements; to ſome Tenements ten dayls, or day-works, to others twenty, to ſome Tenements more, and to others leſſe, paying yearly for the ſame for every dale, or day work three Pence: And your Petitioners who are Tenants within the Mannor of <hi>Askirton,</hi> and Tenants of divers other Man<g ref="char:EOLhyphen"/>nors of Gilſland, and their Anceſtors, have anciently uſed and ought to ſcheal &amp; common thei Cattel, from the firſt day of <hi>May,</hi> unto the firſt day of <hi>Auguſt,</hi> in a great waſte of Heath and Moor ground, called the North Moor, within <hi>Askirton</hi> aforeſaid, pay<g ref="char:EOLhyphen"/>ing for the ſame the ancient yearly rent, 3 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 10 <hi>
+                     <abbr>s.</abbr> viz.</hi> by the Te<g ref="char:EOLhyphen"/>nants of <hi>Askirton</hi> 1 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 9 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> the demeſne lands 8 <hi>
+                     <abbr>s.</abbr> Tredermayne</hi> 17 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <hi>
+                     <abbr>d.</abbr> Walton-wood</hi> 4 <hi>
+                     <abbr>s.</abbr> Brampton</hi> 6 <hi>
+                     <abbr>s.</abbr> Irthington</hi> 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> And your Petitioners, and all the reſt of the Tenants aforeſaid, ought to have of their ſaid Lord, Timber-wood for building and repairing of their houſes belonging to their reſpective Tenements, which ſaid Cuſtomes, Tenures, and ſervices, were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound and certified upon an Inquiſition by certain Commiſſioners authoriſed for that purpoſe by the late Q<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en <hi>Elizabeth,</hi> the Attainder of <hi>Leo<g ref="char:EOLhyphen"/>nard Dacres</hi> 
+                  <abbr>Eſq</abbr> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen Lord of all the ſaid Barony, as by the Re<g ref="char:EOLhyphen"/>cord thereof remaining in the Court of Exchequer, may ap<g ref="char:EOLhyphen"/>pear.</p>
+               <p>Your Petitioners ſhew, that notwithſtanding <hi>William</hi> Lord <hi>Howard,</hi> who after purchaſed all the ſaid Mannors, Lordſhips, and Towns from the Crown, and under whom the ſaid <hi>Charls Ho<g ref="char:EOLhyphen"/>ward,</hi> claims the P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emiſes as his heir, at the time or the purchaſe, was, knowing of your Petitioners ſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, and cuſtomary E<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es, and had in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is purchaſe a very large and conſiderable al<g ref="char:EOLhyphen"/>lowance in reſpect of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our Petitioners ſaid ancient Cuſtomary Eſtates, the ſaid Lord <hi>William Howard</hi> being a Papiſt, and a great Opp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſor of his Tenants, did indeavour to break their ſaid an<g ref="char:EOLhyphen"/>cient
+<pb n="5" facs="tcp:166847:3"/>
+cuſtomes, and to exact a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rary unreaſonable fines, as they b came due, did by threats and menaces to turn them out of dores, inforce ſund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of the ſaid Tennants to pay him fortie pen<g ref="char:EOLhyphen"/>ny fines, fi ty penny fines, and often more, and others refuſing to pay ſuch fines, he inforced to leave their Lands and Tenements, and ſo depopulated a great part of the ſaid Barony, ſince whoſe death, the ſaid <hi>Charls Howard</hi> having been in actual Arms for the late King againſt the Parliament, as your Petitioners are inform<g ref="char:EOLhyphen"/>ed, and doubt not to prove, againſt whom, and ſuch Delinquent Landlords, the former Parliament declared to take care of ſuch Tenants as your Petitioners be. Though your Petitioners, and the reſt of the ſaid Tenants have paid unto him already ten years Rent for their reſpective Fines, for confirming their ſaid Cu<g ref="char:EOLhyphen"/>ſtomes and eſtates, and the ſaid, <hi>Charls Howard</hi> promiſed them to repay what ſhould appear thereof to be more or leſſe then by their Cuſtomes they ought to have paid, to the ſight of indiffer<g ref="char:EOLhyphen"/>ent perſons, doth indeavour to break your Petitioners ſaid Cu<g ref="char:EOLhyphen"/>ſtoms, threatneth to eject them out of their ſaid Eſtates, doth waſt them with Suits in Law, becauſe they will not ſubmit to pay un<g ref="char:EOLhyphen"/>reaſonabl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fines, at his pleaſure ſur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ender up their Lands diſclaim their Cuſtomes and become Tenants at will or l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſes for years at an improved rent, to the full yearly value of their lands, and do other unreaſonable ſervices, as to carry Milſtones to his Mils twenty miles, carry his Corn and Malt to and from his Mils, carry and fetch Barrels of Fiſh for him, and other carriages upon their own charge, from <hi>Carliſle</hi> and elſewhere; whereas none of your Petitioners are b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und to help to carry Mill ſtones, but the Tenants of <hi>Irthington,</hi> and that onely to the Mill of <hi>Irthington;</hi> and upon the Petitione s refuſal to do ſuch unreaſonable and uncuſtomed ſervices, the ſaid <hi>Charls Howard</hi> having called your Petitioners before him, would not ſuffer them to go out of his houſe but kept them as cloſe priſoners in his houſe for ſom time, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning not to let them go at liberty without paying two twenty p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fines, or 4 years Rent, and now vexes your Petitio<g ref="char:EOLhyphen"/>ners with ſuits in the County Courts, where they cannot have a<g ref="char:EOLhyphen"/>ny com<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on ri ht; others of them by ejectment, he ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s at law for their T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts and with hi D <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r &amp; ga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which be keeps in ex<g ref="char:EOLhyphen"/>ceſſive numb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> s, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e deſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Petitioners <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; corn to the Petitioners utter ruine and the ſaid <hi>Charls Howard</hi> hath by ſtrong
+<pb n="6" facs="tcp:166847:4"/>
+hand taken from you Petitioners their aid bounds and dales of Hay ground in the ſaid Forreſt of B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eirthwait, and will not ſuffer them to ſcheal or common their ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tell in the ſaid North moore at the commonable times a<g ref="char:EOLhyphen"/>foreſaid and re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſeth to admit your Petitioners Tenants in his Courts, as of right he ought to do, and denieth to allow your Petitioners any timber wood for building or repairing their houſes, and the ſaid Mr. <hi>Howard</hi> hath entred unto ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me of your Petitioners cuſtomary eſtates without colour or title in Law, and the more to oppreſs and vex your Petitioners, the ſaid <hi>Charls Howard,</hi> doth imploy Captain <hi>Robert Coulſey,</hi> and <hi>Thomas Jackson,</hi> two notorious Delinquents, having been in actual Arms a<g ref="char:EOLhyphen"/>gainſt the Parliament, as his Steward and Clark over all the ſaid Barony and Courts within the ſame, who drives your Petitioners goods, and Impounds them at their pleaſure, for refuſing to do the ſaid unreaſonable ſervi<g ref="char:EOLhyphen"/>ces; and the ſaid <hi>Coulſey</hi> hath by force taken from your Petitioner <hi>Randal Muncaſter</hi> and others the Pariſhioners of <hi>Irthington</hi> aforeſaid, their ancient Seats belonging to their Tenements in <hi>Irthington</hi> Church; and the ſaid <hi>Charls Howard,</hi> will not ſuffer your Petitioners to keep a gun for the ſafeguard of the houſes in the night time a<g ref="char:EOLhyphen"/>gainſt the Moſſe-Troopers or other enemies. Now for as much as the aforeſaid matters, do concern many hun<g ref="char:EOLhyphen"/>dreds of poor Tenants, and if the ſame ſhould proceed at law would be a cauſe of very many needleſſe, endleſſe, and vexatious ſuit at Law; beſides your Petitioners cannot expect any equal tryal in regard of the great po<g ref="char:EOLhyphen"/>tency and power of the ſaid <hi>Charls Howard,</hi> and for the chancery they are hopeleſse of relief there; other Te<g ref="char:EOLhyphen"/>nants being under the like oppreſſions by their Land<g ref="char:EOLhyphen"/>lords after long and chargeable ſuits, and attendances in chancery, for ſetling their cuſtomary eſtates againſt
+<pb n="7" facs="tcp:166847:4"/>
+their Landlords upon hearing of their cauſes in chance<g ref="char:EOLhyphen"/>ry, have had the ſame diſmiſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d again to Law, where commonly the Tenants are overthrown, m ſt of the Judges for the N rthern circuits, being either great Landlords themſelves, and ſome of them often of coun<g ref="char:EOLhyphen"/>cels againſt the Tenants, at the Barres of Juſtice in <hi>Weſtminſter-hall,</hi> ſo as your poor Petitioners without the Favour, Juſtice, and Aſſiſtance of your Highneſſe, are de<g ref="char:EOLhyphen"/>ſtitute of all means to free themſelves of the ſaid heavy and great grievances they lie under, and muſt be forced to leave their lands and habitations, to the will and pleaſure of their ſaid Landlord, as many of their Ance<g ref="char:EOLhyphen"/>ſtors and poor Tenants within the ſaid Barony, have of latter years been conſtrained to do.</p>
+               <div type="conclusion">
+                  <p>Your Petitioners therefore humbly pray your Highneſs, to call the ſaid <hi>Charls Howard</hi> before your Highneſſe, to anſwer the Premiſes aforeſaid; for the love of Juſtice to Commiſerate your Petitioners diſconſolate condition, with reſpect had of your p or Petitioners wives &amp; children, &amp; in regard your Petitioners, are by reaſon of their poverty, and great loſſes by the Scots in the late Wars, and great taxes they are compelled to pay to the ſaid Mr. <hi>Howard,</hi> under colour of ſuppreſſing Moſs. Troopers, which others of the County refuſe to pay, are utterly unabled to contend with ſuch a great perſon as their Landlord in Suits at Law. Your Highneſs will be favourably pleaſed to exa<g ref="char:EOLhyphen"/>mine the truth of the Premiſes; and that your Petition<g ref="char:EOLhyphen"/>ers may not be left to the will of their ſaid Landlord, ſee<g ref="char:EOLhyphen"/>king to deſtroy their ancient Cuſtomes. And that your Highneſſe will as you ſee cauſe, according to Justice, aſ<g ref="char:EOLhyphen"/>certain
+<pb n="8" facs="tcp:166847:5"/>
+their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ines, and confirm their ancient Rights, and Cuſtomes, and free them of the ſaid unwarrantable Taxes, wherewith the ſaid Mr <hi>Howard</hi> compels them to pay, whereby they may be the better inabled to ſerve your Highneſſe and the Commonwealth, againſt the com<g ref="char:EOLhyphen"/>mon enemy, as occaſion ſhall be offered, and as their An<g ref="char:EOLhyphen"/>ceſtors have upon thoſe borders formerly done. And what your Highneſſe ſhall pleaſe to Order, upon hearing of the Cauſe, they will ſubmit unto, and bleſſe God for your Highneſſe. And ever pray, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <closer>
+                  <signed>
+                     <hi>Publiſhed by</hi> John Musgrave.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
